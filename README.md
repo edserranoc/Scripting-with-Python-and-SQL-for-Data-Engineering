@@ -84,7 +84,7 @@ pip install requests beautifulsoup4 pandas sqlite3
 ## Progress Tracking
 | Week | Topic | Status |
 |------|-------------------------------|--------|
-| 1    |Working with Data in Python | ✅ |
+| 1    |Working with Data in Python | ⏳ |
 | 2    | Python Scripting and SQL | ❌ |
 | 3    |Web Scraping using Python | ❌ |
 | 4    | Working with MySQL| ❌ | 
