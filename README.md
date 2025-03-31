@@ -80,6 +80,7 @@ pip install requests beautifulsoup4 pandas sqlite3
 - [Python Official Documentation](https://docs.python.org/3/)
 - [SQLite Documentation](https://www.sqlite.org/docs.html)
 - [pandas Documentation](https://pandas.pydata.org/docs/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/?WT.mc_id=academic-0000-alfredodeza&subjects=artificial-intelligence)
 
 ## Progress Tracking
 | Week | Topic | Status |
