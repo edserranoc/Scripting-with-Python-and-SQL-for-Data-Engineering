@@ -84,6 +84,7 @@ pip install requests beautifulsoup4 pandas sqlite3
 - [pandas Documentation](https://pandas.pydata.org/docs/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/?WT.mc_id=academic-0000-alfredodeza&subjects=artificial-intelligence)
 - [Alfredo Deza: python-scripting Repository](https://github.com/alfredodeza/python-scripting)
+- [Alfredo Deza: Parsing With HTMLParser](https://github.com/alfredodeza/scrapy-xpath)
 
 ## Progress Tracking
 | Week | Topic | Status |
